@@ -17,6 +17,7 @@ public class Stock {
     private String AppleStock;
     private String MSFT;
     private String nivdiaStock;
+    private String EILLY;
 
 
     public Stock(String tickerSymbol,
