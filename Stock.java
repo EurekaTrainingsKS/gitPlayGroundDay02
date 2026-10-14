@@ -15,7 +15,7 @@ public class Stock {
     private LocalDate tradingDate;
     private String stockName;
     private String AppleStock;
-
+    private String MSFT;
 
     public Stock(String tickerSymbol,
                  String tickerName,
