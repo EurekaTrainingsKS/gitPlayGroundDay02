@@ -16,6 +16,7 @@ public class Stock {
     private String stockName;
     private String AppleStock;
     private String nivdiaStock;
+    private String SP500;
 
 
     public Stock(String tickerSymbol,
