@@ -17,6 +17,7 @@ public class Stock {
     private String AppleStock;
     private String TataStock;
     private String NEFT;
+    private String nivdiaStock;
 
 
     public Stock(String tickerSymbol,
