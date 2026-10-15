@@ -16,6 +16,7 @@ public class Stock {
     private String stockName;
     private String AppleStock;
     private String nividiastock;
+    private String Google;
 
 
     public Stock(String tickerSymbol,
