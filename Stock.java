@@ -15,7 +15,11 @@ public class Stock {
     private LocalDate tradingDate;
     private String stockName;
     private String AppleStock;
-
+    private String TSLAStock;
+    private String HondaStock;
+    private String AmazonStock;
+    private String RobloxStock;
+    private String GoogleStock;
 
     public Stock(String tickerSymbol,
                  String tickerName,
