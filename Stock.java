@@ -17,6 +17,8 @@ public class Stock {
     private String AppleStock;
     private String nividiastock;
     private String Google;
+    private String MicrosoftStock;
+    private String AmazonStock;
 
 
     public Stock(String tickerSymbol,
