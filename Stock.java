@@ -15,9 +15,11 @@ public class Stock {
     private LocalDate tradingDate;
     private String stockName;
     private String AppleStock;
-    private String TataStock;
-    private String NEFT;
+    private String MSFT;
     private String nivdiaStock;
+    private String SP500;
+    private String EILLY;
+    private String APPL;
 
 
     public Stock(String tickerSymbol,
